@@ -1,0 +1,12 @@
+{
+  "language": "Português Brasileiro",
+  "ui": {
+    "settings": {
+      "title": "Configurações",
+      "language": "Língua"
+    },
+    "cancel": "Cancelar",
+    "close": "Fechar",
+    "confirm": "Confirmar"
+  }
+}
